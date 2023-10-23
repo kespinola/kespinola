@@ -9,6 +9,22 @@
 
 ---
 
-### 👋 About Me :
+### 👋 About Me:
 
 I am a seasoned software engineer boasting over a decade of experience in crafting solutions across various segments of the development stack. Presently, I serve as the VP of Engineering at [Holaplex](https://holaplex.com), where I lead a skilled team of engineers in the development of [HUB](https://hub.holaplex.com), an enterprise-grade NFT ERP management platform. Prior to founding Holaplex, I dedicated six years to [Procore](https://www.procore.com/), a global frontrunner in construction management solutions (NYSE: PCOR).
+
+### 📊 My Stats:
+
+![kespinola's GitHub stats](https://github-readme-stats.vercel.app/api?username=kespinola&show_icons=true&theme=transparent)
+
+### 🛠️ Languages & Technologies
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgres" alt="postgres" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
+</div>
