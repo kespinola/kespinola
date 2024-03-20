@@ -11,7 +11,7 @@
 
 ### 👋 About Me:
 
-I am a seasoned software engineer boasting over a decade of experience in crafting solutions across various segments of the development stack. Presently, I serve as the VP of Engineering at [Holaplex](https://holaplex.com), where I lead a skilled team of engineers in the development of [HUB](https://hub.holaplex.com), an enterprise-grade NFT ERP management platform. Prior to founding Holaplex, I dedicated six years to [Procore](https://www.procore.com/), a global frontrunner in construction management solutions (NYSE: PCOR).
+I am a seasoned software engineer boasting over a decade of experience in crafting solutions across various segments of the development stack. Currently, I run @abk-labs, a technology advisory firm specializing in blockchain and AI. Previously, I served as the VP of Engineering at [Holaplex](https://holaplex.com), where I lead a skilled team of engineers in the development of [HUB](https://hub.holaplex.com), an enterprise-grade NFT ERP management platform. Prior to founding Holaplex, I dedicated six years to [Procore](https://www.procore.com/), a global frontrunner in construction management solutions (NYSE: PCOR).
 
 ### 📊 My Stats:
 
